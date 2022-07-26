@@ -4,7 +4,7 @@ import PostList from "./PostList";
 export default () => {
     return (
     <div>
-        <h1>Lista pedidos</h1>
+        <h1>Lista pedidos del restaurante</h1>
         <PostList/>
     </div>
     );
